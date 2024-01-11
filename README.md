@@ -3,11 +3,13 @@ Instructions
 The instructions for this activity are broken into two parts:
 
 Part 1: Create the Earthquake Visualization
-![2-BasicMap](https://github.com/Sikebro/leaflet-challenge/assets/89745480/230e4d1f-f743-4993-ac0d-127aca0e012d)
-Part 2: Gather and Plot More Data (Optional with no extra points earning)
+
+Part 2: Gather and Plot More Data (Optional with no extra points earned)
 
 Part 1: Create the Earthquake Visualization
 2-BasicMap
+
+![2-BasicMap](https://github.com/Sikebro/leaflet-challenge/assets/89745480/230e4d1f-f743-4993-ac0d-127aca0e012d)
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
@@ -15,10 +17,12 @@ Get your dataset. To do so, follow these steps:
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 3-Data
+
 ![3-Data](https://github.com/Sikebro/leaflet-challenge/assets/89745480/c91048c0-c8eb-452a-8ed9-2cfeec34ca10)
 
 When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 4-JSON
+
 ![4-JSON](https://github.com/Sikebro/leaflet-challenge/assets/89745480/8a8be7af-7141-42fc-8164-d269ad24f13e)
 
 Import and visualize the data by doing the following:
